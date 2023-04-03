@@ -64,7 +64,7 @@ Once done with the testing and validation covered under the building document ab
 - Add representative sample data and test results to the sample data folder (*/Sample Data/ASIM*), please follow the [sample data contribution](https://github.com/Azure/Azure-Sentinel/tree/master/Sample%20Data#sample-data-contribution-guidance) and [test result submission](https://learn.microsoft.com/en-us/azure/sentinel/normalization-develop-parsers#test-results-submission-guidelines) guidelines for the same.
 
 ## Parser Ships 
-Microsoft team will review the parser and if everything is matching the expected standards then we will deploy the parser in Log analytic workspace so that it will be available to all Microsoft customers.
+Microsoft team will review the parser and if everything is matching the expected standards then we will deploy the parser in Log analytic workspace so that it will be available to all Microsoft customers
 
 
 
